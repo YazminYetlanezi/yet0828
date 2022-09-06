@@ -4,3 +4,36 @@ padding: 0;
 
 }
 
+a.aUno{
+    color: aliceblue;
+
+}
+
+.nav1{
+    background-color: #4a4e69;
+    padding: 8px;
+    position: sticky;
+    top: 5px;
+    text-align: center;
+}
+
+.secPrimero{
+    background-color: #f2e9e4;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+ 
+ /*
+ .navegador1 li a:hover{
+    background-color: #333333;
+    color: #ffffff;
+ }
+ */
+
